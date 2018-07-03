@@ -3,12 +3,12 @@ For all kinds of textual analysis: literary, social media, surveys...
 
 
 ----
-Our group has been developing an open instructional workflow for text analysis that aims to build understanding and basic coding skills before scaling up analyses. We have chosen to bootstrap in R because of its statistical and graphical capabilities and because of its wealth of domain-specific packages. Moreover, the open source and scripting nature of R allows for methods that are repeatable, extensible, scalable, and sustainable. The aim is to provide code templates that can be adapted, remixed, and scaled to fit a wide range of text analysis tasks.
+Our group has been developing an open instructional workflow for text analysis that aims to build understanding and basic coding skills before scaling up analyses. We have chosen to bootstrap in R and Python because of their statistical and graphical capabilities and because of their wealth of domain-specific packages and modules. Moreover, the open source and scripting nature of both allows for methods that are repeatable, extensible, scalable, and sustainable. The aim is to provide code templates that can be adapted, remixed, and scaled to fit a wide range of text analysis tasks.
 
 ----
 ### What is in this repo?
 
-1. RNotebooks: heavily annotated to explain each line of code.
+1. Jupyter Notebooks: heavily annotated to explain each line of code.
 2. RScripts: lightly annotated to allow the user to experiment.
 3. Data: need to replicate our results.*
 
